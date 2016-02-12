@@ -7,9 +7,12 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew autoconf
 brew cairo
 brew cmake
 brew coreutils
+brew fontconfig
+brew freetype
 brew fswatch
 brew gdbm
 brew gettext
@@ -31,6 +34,7 @@ brew little-cms2
 brew mongodb
 brew openssl
 brew pixman
+brew pkg-config
 brew rbenv
 brew rbenv-binstubs
 brew rbenv-bundler
@@ -44,8 +48,6 @@ brew xz
 
 # App Store applications
 appstore Alternote
-appstore BetterSnapTool
-appstore Degrees
 appstore GarageBand
 appstore Go2Shell
 appstore iMovie
