@@ -3,6 +3,9 @@
 
 tap caskroom/cask
 
+tap martido/brew-graph
+brew brew-graph
+
 tap rcmdnk/file
 brew brew-file
 
@@ -18,6 +21,7 @@ brew gdbm
 brew gettext
 brew git
 brew glib
+brew gmp
 brew go
 brew imagemagick
 brew jbig2dec
@@ -37,8 +41,6 @@ brew openssl
 brew pixman
 brew pkg-config
 brew rbenv
-brew rbenv-binstubs
-brew rbenv-bundler
 brew readline
 brew ruby-build
 brew s3cmd
