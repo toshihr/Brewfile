@@ -23,6 +23,7 @@ brew git
 brew glib
 brew gmp
 brew go
+brew graphviz
 brew imagemagick
 brew jbig2dec
 brew jpeg
