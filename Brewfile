@@ -19,7 +19,7 @@ brew gettext
 brew git
 brew glib
 brew go
-brew imagemagick --with-libtiff --with-libtiff
+brew imagemagick
 brew jbig2dec
 brew jpeg
 brew jq
@@ -32,6 +32,7 @@ brew libxslt
 brew libyaml
 brew little-cms2
 brew mongodb
+brew oniguruma
 brew openssl
 brew pixman
 brew pkg-config
