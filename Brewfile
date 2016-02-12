@@ -3,25 +3,6 @@
 
 tap caskroom/cask
 
-tap homebrew/versions
-
-cask vagrant
-cask virtualbox
-
-tap homebrew/binary
-
-tap homebrew/dupes
-
-tap homebrew/science
-
-tap homebrew/versions
-
-tap homebrew/x11
-
-tap kerug/crypto
-
-tap kerug/mytools
-
 tap rcmdnk/file
 brew brew-file
 
@@ -65,7 +46,6 @@ brew xz
 appstore Alternote
 appstore BetterSnapTool
 appstore Degrees
-appstore Free DVD Creator
 appstore GarageBand
 appstore Go2Shell
 appstore iMovie
