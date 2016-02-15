@@ -14,6 +14,7 @@ brew autoconf
 brew cairo
 brew cmake
 brew coreutils
+brew docker-cloud
 brew fontconfig
 brew freetype
 brew fswatch
